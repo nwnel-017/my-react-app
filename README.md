@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple Reminder application that I created when learning Javascript React through a tutorial. To visit my app, navigate to my project directory after cloning, and type "npm start" to start your local server to startup my application.
+
+# Features
+
+This application contains a To Do list with days under the title of the task. To add a new task click Add at the top and enter the task and day it needs to be completed. Hit save to add it to the list. A green banner shows on tasks that have reminders toggled. Double click on a task to toggle the reminder feature. 
+This application was very beneficial for me to understand more about front end development using React. It was my first time using React, and I was very impressed with its easy to use features and how it updates in real time. I am definitely going to continue to expand my knowledge with React
 
 ## Available Scripts
 
